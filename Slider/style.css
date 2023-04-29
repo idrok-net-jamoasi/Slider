@@ -335,3 +335,178 @@ section {
    border-radius: 50%;
 }
 /* Sardor */
+/* Jamshid Begin */
+#cat{ margin-top: 30px;
+   height: 600px;
+   background: #0099F7;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #F11712, #0099F7);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #F11712, #0099F7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   position: relative;
+
+}
+#google{
+   width: 250px;
+   height: 50px;
+   margin-top: 30px;
+   margin-left: 200px;
+   font-size: 20px;
+ border-radius: 20px;
+ background-color: rgb(231, 11, 84);
+}
+#google:hover{
+   width: 300px;
+   height: 55px;
+   margin-top: 30px;
+   margin-left: 175px;
+   transition: 1s;
+   font-size: 20px;
+ border-radius: 30px;
+background-color: rgb(105, 105, 197);
+}
+#go{
+   width: 210px;
+   height: 150px;  
+  
+   
+}
+
+ 
+#first{
+ transform: rotate(-20deg);
+ transform: skewY(-10deg);
+ transform: skewX(20deg);
+
+
+}
+ #first1{ transform: rotate(-20deg);
+   transform: skewY(-10deg);
+   transform: skewX(20deg);
+   margin-left: 180px;
+
+ }
+ #fear{
+   margin-top: 20px;
+ }
+
+   
+
+
+#general{
+   display: flex;
+   flex-direction: row;
+   gap: 10px;
+  
+}
+#logo{
+   position: absolute;
+   margin-left: 720px;
+   margin-top: -300px;
+}
+#fluid{margin-top: 20px;
+   width: 100vw;
+   margin-left: -135px;
+   height: 500px;
+   background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+#foot{
+   padding-top: 50px;
+}
+#foot1{padding-top: 50px;
+   padding-left: 20px;
+}
+.menu li{
+  margin-top: 10px;
+   font-size: 18px;
+   font-family: sans-serif;
+   list-style: none;
+   opacity: 0.6;
+}
+.menu{
+   margin-top: 20px;
+}
+.menu li:hover{
+   cursor: pointer;
+   color: rgb(216, 215, 231);
+}
+#Final{ width: 100vw;
+   height: 80px;
+   margin-left: -135px;
+   background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+#raw{
+   margin-top: 20px;
+}
+#your{
+   height: 60px;
+   width: 70px;
+   padding-left: 10px;
+
+}
+.list-unstyled{
+   display: flex;
+   list-style: none;
+   flex-direction: row;
+   gap: 5px;
+   padding-top: 15px;
+}
+#shadow{
+   background-color: #fffbfb;
+   box-shadow: 5px 0px 19px 2px rgba(34, 60, 80, 0.36);
+   transition-delay: 2s; 
+   width: 350px;
+   height: 550px;
+   margin: 10px;
+   gap: 10px;
+  
+}
+
+
+#card{
+   border: none;
+}
+#cardtext:hover{
+   color: red;
+   cursor: pointer;
+}
+#cardtext{
+   margin-top: -20px;
+}
+#card-txt{
+   margin-top: -10px;
+}
+#card-txt1{
+   margin-left: 250px;
+   margin-top: -10px;
+
+}
+#med:hover{
+color: chocolate;
+cursor: pointer;
+}
+#svg{
+   width: 50px;
+   height: 50px;
+   margin-top: 40px;
+   margin-left: 20px;
+}
+#slider{
+   margin-top: 50px;
+   
+}
+#slider:hover{
+   color: red;
+   cursor: pointer;
+}
+#subscribe{
+   height: 45px;
+   width: 220px;
+   margin-top: 30px;
+  margin-left: 60px;
+}
+#subscribe:hover{
+  background-color: red;
+   cursor: pointer;
+}
+/* Jamshid Stop */
